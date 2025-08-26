@@ -24,10 +24,9 @@ https://github.com/Yadvendra016/CodeCast/assets/91756355/dadc9f09-ef24-4c73-aa43
 
 ## Usage
 
-1. Open the [CodeCast live demo](https://codecast-324z.onrender.com).
-2. Enter a Room ID or generate a new one.
-3. Set your username.
-4. Start collaborating with others in the same room.
+1. Enter a Room ID or generate a new one.
+2. Set your username.
+3. Start collaborating with others in the same room.
 
 ## Development
 
